@@ -9530,7 +9530,6 @@
 	)
 	(label "SWDCLK_JCLK"
 		(at 120.65 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9541,7 +9540,6 @@
 	)
 	(label "DIR_TDI"
 		(at 147.32 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9552,7 +9550,6 @@
 	)
 	(label "T_VCP_RX"
 		(at 256.54 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9563,7 +9560,6 @@
 	)
 	(label "~{RESET}"
 		(at 120.65 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9574,7 +9570,6 @@
 	)
 	(label "PWM_VS"
 		(at 29.21 251.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9585,7 +9580,6 @@
 	)
 	(label "SWDCLK_JCLK"
 		(at 147.32 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9596,7 +9590,6 @@
 	)
 	(label "T_VCC"
 		(at 256.54 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9607,7 +9600,6 @@
 	)
 	(label "GNDDetect"
 		(at 189.23 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9618,7 +9610,6 @@
 	)
 	(label "T_GNDDetect"
 		(at 205.74 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9629,7 +9620,6 @@
 	)
 	(label "GNDDetect"
 		(at 120.65 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9640,7 +9630,6 @@
 	)
 	(label "DIR_SWO_TDO"
 		(at 147.32 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9651,7 +9640,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 167.64 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9662,7 +9650,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 167.64 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9673,7 +9660,6 @@
 	)
 	(label "T_SWDCLK_JCLK"
 		(at 205.74 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9684,7 +9670,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 265.43 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9695,7 +9680,6 @@
 	)
 	(label "T_SWO_TDO"
 		(at 198.12 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9706,7 +9690,6 @@
 	)
 	(label "VS2_T"
 		(at 314.96 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9717,7 +9700,6 @@
 	)
 	(label "T_~{RESET}"
 		(at 242.57 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9728,7 +9710,6 @@
 	)
 	(label "T_VCC"
 		(at 101.6 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9739,7 +9720,6 @@
 	)
 	(label "DIR_TDI"
 		(at 120.65 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9750,7 +9730,6 @@
 	)
 	(label "DIR_SWDIO_TMS"
 		(at 120.65 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9761,7 +9740,6 @@
 	)
 	(label "VS_T"
 		(at 64.77 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9772,7 +9750,6 @@
 	)
 	(label "SWO_TDO"
 		(at 147.32 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9783,7 +9760,6 @@
 	)
 	(label "T_SWDIO_TMS"
 		(at 242.57 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9794,7 +9770,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 167.64 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9805,7 +9780,6 @@
 	)
 	(label "DIR_SWO_TDO"
 		(at 120.65 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9816,7 +9790,6 @@
 	)
 	(label "LED1"
 		(at 120.65 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9827,7 +9800,6 @@
 	)
 	(label "T_SWDIO_TMS"
 		(at 256.54 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9838,7 +9810,6 @@
 	)
 	(label "5V_KEY"
 		(at 242.57 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9849,7 +9820,6 @@
 	)
 	(label "T_VCC"
 		(at 300.99 181.61 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9860,7 +9830,6 @@
 	)
 	(label "P_SWDIO"
 		(at 101.6 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9871,7 +9840,6 @@
 	)
 	(label "ADJ2_T"
 		(at 251.46 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9882,7 +9850,6 @@
 	)
 	(label "T_VCC_MEAS"
 		(at 86.36 270.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9893,7 +9860,6 @@
 	)
 	(label "~{RESET}"
 		(at 189.23 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9904,7 +9870,6 @@
 	)
 	(label "SWDCLK_JCLK"
 		(at 257.81 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9915,7 +9880,6 @@
 	)
 	(label "P_SWCLK"
 		(at 101.6 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9926,7 +9890,6 @@
 	)
 	(label "P_SWCLK"
 		(at 57.15 224.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9937,7 +9900,6 @@
 	)
 	(label "LED3"
 		(at 119.38 275.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9948,7 +9910,6 @@
 	)
 	(label "T_VCC"
 		(at 242.57 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9959,7 +9920,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 300.99 147.32 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9970,7 +9930,6 @@
 	)
 	(label "T_VCC"
 		(at 270.51 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9981,7 +9940,6 @@
 	)
 	(label "PWM2_VS"
 		(at 29.21 267.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9992,7 +9950,6 @@
 	)
 	(label "T_SWO_TDO"
 		(at 242.57 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10003,7 +9960,6 @@
 	)
 	(label "LED1"
 		(at 119.38 265.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10014,7 +9970,6 @@
 	)
 	(label "DIR_SWDCLK_JCLK"
 		(at 257.81 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10025,7 +9980,6 @@
 	)
 	(label "D_FS_N"
 		(at 179.07 245.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10036,7 +9990,6 @@
 	)
 	(label "D_P"
 		(at 219.71 248.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10047,7 +10000,6 @@
 	)
 	(label "DIR_SWDCLK_JCLK"
 		(at 147.32 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10058,7 +10010,6 @@
 	)
 	(label "T_~{RESET}"
 		(at 205.74 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10069,7 +10020,6 @@
 	)
 	(label "T_TDI"
 		(at 198.12 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10080,7 +10030,6 @@
 	)
 	(label "5V_KEY"
 		(at 208.28 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10091,7 +10040,6 @@
 	)
 	(label "T_SWDCLK_JCLK"
 		(at 242.57 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10102,7 +10050,6 @@
 	)
 	(label "ADJ2_T"
 		(at 298.45 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10113,7 +10060,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 29.21 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10124,7 +10070,6 @@
 	)
 	(label "D_FS_P"
 		(at 120.65 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10135,7 +10080,6 @@
 	)
 	(label "VS2_T"
 		(at 64.77 267.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10146,7 +10090,6 @@
 	)
 	(label "DIR_SWDIO_TMS"
 		(at 257.81 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10157,7 +10100,6 @@
 	)
 	(label "TDI"
 		(at 147.32 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10168,7 +10110,6 @@
 	)
 	(label "SWDIO_TMS"
 		(at 147.32 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10179,7 +10120,6 @@
 	)
 	(label "TDI"
 		(at 120.65 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10190,7 +10130,6 @@
 	)
 	(label "T_VCC_EN"
 		(at 210.82 209.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10201,7 +10140,6 @@
 	)
 	(label "SWO_TDO"
 		(at 120.65 200.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10212,7 +10150,6 @@
 	)
 	(label "PWM2_VS"
 		(at 120.65 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10223,7 +10160,6 @@
 	)
 	(label "VS_T"
 		(at 314.96 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10234,7 +10170,6 @@
 	)
 	(label "LED3"
 		(at 120.65 236.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10245,7 +10180,6 @@
 	)
 	(label "T_GNDDetect"
 		(at 242.57 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10256,7 +10190,6 @@
 	)
 	(label "5V_KEY_EN"
 		(at 185.42 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10267,7 +10200,6 @@
 	)
 	(label "T_TDI"
 		(at 242.57 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10278,7 +10210,6 @@
 	)
 	(label "ADJ_T"
 		(at 298.45 191.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10289,7 +10220,6 @@
 	)
 	(label "GPIO1"
 		(at 120.65 162.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10300,7 +10230,6 @@
 	)
 	(label "SWDIO_TMS"
 		(at 120.65 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10311,7 +10240,6 @@
 	)
 	(label "LED2"
 		(at 120.65 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10322,7 +10250,6 @@
 	)
 	(label "D_N"
 		(at 219.71 246.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10333,7 +10260,6 @@
 	)
 	(label "D_FS_N"
 		(at 120.65 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10344,7 +10270,6 @@
 	)
 	(label "T_TDI"
 		(at 205.74 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10355,7 +10280,6 @@
 	)
 	(label "T_SWDCLK_JCLK"
 		(at 256.54 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10366,7 +10290,6 @@
 	)
 	(label "ADJ_T"
 		(at 252.73 198.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10377,7 +10300,6 @@
 	)
 	(label "T_SWDCLK_JCLK"
 		(at 198.12 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10388,7 +10310,6 @@
 	)
 	(label "5V_KEY_EN"
 		(at 120.65 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10399,7 +10320,6 @@
 	)
 	(label "FUSED_5V"
 		(at 182.88 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10410,7 +10330,6 @@
 	)
 	(label "PROTECTED_5V"
 		(at 194.31 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10421,7 +10340,6 @@
 	)
 	(label "DIR_SWDIO_TMS"
 		(at 147.32 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10432,7 +10350,6 @@
 	)
 	(label "LED2"
 		(at 119.38 270.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10443,7 +10360,6 @@
 	)
 	(label "T_VCC_EN"
 		(at 120.65 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10454,7 +10370,6 @@
 	)
 	(label "T_SWDIO_TMS"
 		(at 205.74 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10465,7 +10380,6 @@
 	)
 	(label "D_FS_P"
 		(at 179.07 250.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10476,7 +10390,6 @@
 	)
 	(label "T_VCP_TX"
 		(at 256.54 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10487,7 +10400,6 @@
 	)
 	(label "DIR_SWDCLK_JCLK"
 		(at 120.65 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10498,7 +10410,6 @@
 	)
 	(label "SWDIO_TMS"
 		(at 257.81 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10509,7 +10420,6 @@
 	)
 	(label "GPIO2"
 		(at 120.65 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10520,7 +10430,6 @@
 	)
 	(label "FUSED_5V"
 		(at 210.82 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10531,7 +10440,6 @@
 	)
 	(label "PWM_VS"
 		(at 120.65 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10542,7 +10450,6 @@
 	)
 	(label "T_VCC_MEAS"
 		(at 120.65 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10553,7 +10460,6 @@
 	)
 	(label "TRANS_VCC"
 		(at 167.64 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10564,7 +10470,6 @@
 	)
 	(label "T_SWDIO_TMS"
 		(at 198.12 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10575,7 +10480,6 @@
 	)
 	(label "T_SWO_TDO"
 		(at 205.74 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10586,7 +10490,6 @@
 	)
 	(label "P_SWDIO"
 		(at 57.15 227.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

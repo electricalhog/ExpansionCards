@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(general
-		(thickness 1.6)
+		(thickness 0.69)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -63,7 +63,7 @@
 			)
 			(layer "dielectric 1"
 				(type "core")
-				(thickness 1.51)
+				(thickness 0.6)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -3307,7 +3307,7 @@
 			(pintype "passive")
 			(uuid "9c4552af-8be7-48e0-af1d-83038cbd5072")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4073,7 +4073,7 @@
 		(descr "DHC Package; 16-Lead Plastic DFN (5mm x 3mm) (see Linear Technology DFN_16_05-08-1706.pdf)")
 		(tags "DFN 0.5")
 		(property "Reference" "U4"
-			(at -2 -1.75 180)
+			(at -2 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "099473f1-6598-46ff-a50f-4c520832170d")
 			(effects
@@ -5410,7 +5410,7 @@
 			(pintype "passive")
 			(uuid "bdfc09bf-24c3-4fcc-a923-344cecfd3376")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12319,7 +12319,7 @@
 			(pintype "passive")
 			(uuid "4667e4ef-95fd-46f8-bd1a-c4ab87107228")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20379,6 +20379,17 @@
 			(pintype "output")
 			(thermal_bridge_angle 45)
 			(uuid "a96e2685-4f73-43c6-8564-20d79b0c8ac1")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x05_P1.27mm_Vertical.wrl"
+			(offset
+				(xyz 2.5 -0 -1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 90)
+			)
 		)
 	)
 	(footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical"
