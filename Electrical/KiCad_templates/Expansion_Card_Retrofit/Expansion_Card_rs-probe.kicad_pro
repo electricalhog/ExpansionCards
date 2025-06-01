@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 3.7,
-          "width": 0.5
+          "drill": 0.3,
+          "height": 0.6,
+          "width": 0.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,7 +58,40 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|133650000|127800000|121a246d-1e1d-4b45-8468-562d4857f2be|55cc8082-a775-4a56-87fc-7cf1cdd70c75",
+          ""
+        ],
+        [
+          "copper_edge_clearance|133650000|127800000|121a246d-1e1d-4b45-8468-562d4857f2be|79614a6f-fac1-40e5-a787-d98d036dfc6c",
+          ""
+        ],
+        [
+          "copper_edge_clearance|137005000|128440000|6ed04a54-e408-4aee-b677-59d491e9c590|153762d7-4021-44b4-b228-4a9668a2a5d3",
+          "Can't help it"
+        ],
+        [
+          "copper_edge_clearance|137005000|128440000|6ed04a54-e408-4aee-b677-59d491e9c590|51b6ef71-9e5f-4a6b-aee6-db6a7ccf98e3",
+          ""
+        ],
+        [
+          "copper_edge_clearance|142940000|128540000|99c45ff3-8879-4d63-a524-d1c27da777ee|26f631e9-8fdc-4c9d-a328-a904517b9bd5",
+          ""
+        ],
+        [
+          "copper_edge_clearance|142940000|128540000|99c45ff3-8879-4d63-a524-d1c27da777ee|98c784a4-6c54-453f-9386-c779296a0a00",
+          ""
+        ],
+        [
+          "copper_edge_clearance|144750000|128700000|00000000-0000-0000-0000-00005fd740c4|81d68ce1-175a-4409-b13a-0fbede98d1cd",
+          ""
+        ],
+        [
+          "copper_edge_clearance|144750000|128700000|00000000-0000-0000-0000-00005fd740c4|9c9a8840-05c7-4b82-a9d1-1f9c66b09ff5",
+          "Can't help it"
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -89,8 +122,8 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -109,6 +142,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -605,12 +639,48 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFPN",
+          "name": "MFPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
